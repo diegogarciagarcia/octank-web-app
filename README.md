@@ -13,6 +13,8 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 
+TUTORIAL
+https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
 
 RUN MONGODB
 docker-compose up
